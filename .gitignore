@@ -1,0 +1,19 @@
+# Node / React
+node_modules/
+dist/
+build/
+
+# Python / FastAPI
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

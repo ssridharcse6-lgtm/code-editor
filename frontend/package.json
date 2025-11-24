@@ -1,0 +1,17 @@
+{
+    "name": "code-editor-frontend",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@codemirror/basic-setup": "0.19.3"
+    },
+    "devDependencies": {
+        "typescript": "^5.2.2",
+        "vite": "^4.4.9"
+    }
+}
